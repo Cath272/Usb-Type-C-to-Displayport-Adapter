@@ -2,11 +2,12 @@
  Usb Type C (DP Alt Mode)  to Displayport Adapter
  4 DP lanes
 
- Simple Usb C to Displayport Adapter using the VL103 Q3 ic
+ Simple Usb C to Displayport Adapter using the VL100-Q3/VL103-Q3 ic
+ VL103-Q3 does not need external crystal but VL100-Q3 can be found cheaper 
 
  The design is not final!
 
- ## VL103 Q3
+ ## VL100-Q3/VL103-Q3
 
   - CC Logic & PD 3.0 Engine 
 
